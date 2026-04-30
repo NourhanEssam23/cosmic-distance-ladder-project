@@ -26,6 +26,3 @@ Python, NumPy, Pandas, Matplotlib, Jupyter Notebook
 - ESA Gaia Archive
 - OGLE Catalog
 - Pantheon+ Supernova dataset
-
-## Author
-Nourhan Essam
